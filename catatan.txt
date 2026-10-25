@@ -1,0 +1,8 @@
+Nama	:Moh Awalul Ramadhan
+NRP	:33132501011
+
+Working Tree (Working Directory): Tempat di mana kamu mengedit, membuat, atau menghapus file secara langsung di komputer lokalmu.
+
+Staging Area (Index): Tempat penampungan sementara bagi file-file yang sudah kamu tandai (git add) untuk disiapkan sebelum disimpan ke repository.
+
+Repository (.git): Tempat penyimpanan permanen di mana Git merekam seluruh riwayat commit, histori perubahan, dan versi dari project kamu.
